@@ -1,0 +1,14 @@
+{
+  "repo": "linde",
+  "feeds": [
+    {
+      "source": "https://www.linde.com/news-and-media",
+      "feed_url": "https://www.linde.com/news-and-media",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 13
+}
