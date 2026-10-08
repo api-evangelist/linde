@@ -51,6 +51,12 @@ apis:
     description: >-
       The Linde API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: Plans
+    url: plans/linde-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/linde-rate-limits.yml
+  - type: FinOps
+    url: finops/linde-finops.yml
   - type: VulnerabilityDisclosure
     url: security/linde-vulnerability-disclosure.yml
   - type: DomainSecurity
